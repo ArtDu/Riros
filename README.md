@@ -1,3 +1,5 @@
 # Riros
 
-### html версия сайта, в дальнейшем сайт был поставлен на wordpress
+freelance work
+
+### html version of web-site, futher its was transferred to wordpress cms
